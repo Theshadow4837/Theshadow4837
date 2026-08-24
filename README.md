@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on personal AI projects 🌱 I’m currently learning python 💬 Ask me about robotics⚡ Fun fact im apart of FRC 6390
 
 
 ## 🌐 Socials:
