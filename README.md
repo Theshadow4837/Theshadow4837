@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on personal AI projects 🌱 I’m currently learning python 💬 Ask me about robotics⚡ Fun fact im apart of FRC 6390
+🔭 I’m currently working on personal AI projects 
+🌱 I’m currently learning python 
+💬 Ask me about robotics
+⚡ Fun fact i'm apart of FRC 6390
 
 
 ## 🌐 Socials:
